@@ -1,7 +1,7 @@
 # loading_madagascar ( Flutter + Flare ) 
 
 A new Flutter application.
-
+![alt text](https://github.com/babakoto/loadingMadagascar_flutter/blob/master/mada.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
