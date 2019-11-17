@@ -1,4 +1,4 @@
-# loading_madagascar
+# loading_madagascar ( Flutter + Flare ) 
 
 A new Flutter application.
 
